@@ -1,0 +1,1 @@
+nohup ./src/http_region > ./logs/server.log 2>&1 &
